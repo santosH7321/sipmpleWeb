@@ -44,4 +44,27 @@
     font-weight: 800;
 }
 
+.second-left{
+    background-color: #88c2e6;
+}
+.name-section p{
+    font-size: 35px;
+    margin: 10px;
+    font-weight: 700;
+}
 
+.name-section h2{
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.second-left{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.role{
+    color: red;
+
+}
